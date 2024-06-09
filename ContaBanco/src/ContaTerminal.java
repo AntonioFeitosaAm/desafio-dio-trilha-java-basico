@@ -1,6 +1,19 @@
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+* <h1>Conta Bancária</h1>
+* Realiza a captura de dados essenciais para a criação de uma conta bancária, foi criado utilizando os conhecimentos ensinando no curso de Sintaxe de Java - Trilha básica, da DIO, Santander 2024 - Backend com Java.
+*
+* <p>
+* <b>Note:</b> Leia atentamente a documentação desta classes
+* para desfrutar dos recursos oferecidos pelo autor
+*
+* @author  Antonio Feitosa
+* @version 1.0
+* @since   09/06/2024
+*/
+
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
         //TODO: Conhecer e importar a classe Scanner

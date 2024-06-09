@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Conta Bancária","h":"class ContaTerminal","d":"Section","u":"ContaTerminal.html#conta-banc-ria-heading"}];updateSearchResults();
